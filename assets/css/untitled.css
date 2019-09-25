@@ -1,0 +1,10 @@
+.parallax2 {
+  background-image: url("https://drive.google.com/uc?id=1GtnnNHeNWLea3sJ8yzzgWM0c2xbpOUVT");
+  opacity: 1;
+  height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+

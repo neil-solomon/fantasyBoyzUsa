@@ -1,0 +1,339 @@
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=1
+PittsburghPoopsmiths 1 0 1
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=1
+PittsburghPoopsmiths 1 1 1
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=1
+PittsburghPoopsmiths 1 2 1
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=1
+PittsburghPoopsmiths 1 3 1
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=1
+PittsburghPoopsmiths 1 4 1
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=1
+PittsburghPoopsmiths 1 5 1
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=1
+PittsburghPoopsmiths 1 6 1
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=1
+PittsburghPoopsmiths 1 7 1
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=1
+PittsburghPoopsmiths 1 8 1
+
+390   Derrius Guice   31029   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31029/stats;type=week;week=1
+PittsburghPoopsmiths 1 9 1
+
+390   Donte Moncrief   27618   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27618/stats;type=week;week=1
+PittsburghPoopsmiths 1 10 1
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=1
+PittsburghPoopsmiths 1 11 1
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=1
+PittsburghPoopsmiths 1 12 1
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=1
+PittsburghPoopsmiths 1 13 1
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=1
+Brooklyn Butphux 1 0 1
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=1
+Brooklyn Butphux 1 1 1
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=1
+Brooklyn Butphux 1 2 1
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=1
+Brooklyn Butphux 1 3 1
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=1
+Brooklyn Butphux 1 4 1
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=1
+Brooklyn Butphux 1 5 1
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=1
+Brooklyn Butphux 1 6 1
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=1
+Brooklyn Butphux 1 7 1
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=1
+Brooklyn Butphux 1 8 1
+
+390   Robby Anderson   29785   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29785/stats;type=week;week=1
+Brooklyn Butphux 1 9 1
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=1
+Brooklyn Butphux 1 10 1
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=1
+Brooklyn Butphux 1 11 1
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=1
+Brooklyn Butphux 1 12 1
+
+390   Seattle   100026   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100026/stats;type=week;week=1
+Brooklyn Butphux 1 13 1
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=1
+Brooklyn Butphux 1 14 1
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=1
+Ark of the Covfefe 1 0 1
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=1
+Ark of the Covfefe 1 1 1
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=1
+Ark of the Covfefe 1 2 1
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=1
+Ark of the Covfefe 1 3 1
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=1
+Ark of the Covfefe 1 4 1
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=1
+Ark of the Covfefe 1 5 1
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=1
+Ark of the Covfefe 1 6 1
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=1
+Ark of the Covfefe 1 7 1
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=1
+Ark of the Covfefe 1 8 1
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=1
+Ark of the Covfefe 1 9 1
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=1
+Ark of the Covfefe 1 10 1
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=1
+Ark of the Covfefe 1 11 1
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=1
+Ark of the Covfefe 1 12 1
+
+390   Jacksonville   100030   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100030/stats;type=week;week=1
+Ark of the Covfefe 1 13 1
+
+390   Carson Wentz   29236   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29236/stats;type=week;week=1
+WouldaShouldaCoulda 1 0 1
+
+390   Keenan Allen   26699   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26699/stats;type=week;week=1
+WouldaShouldaCoulda 1 1 1
+
+390   Robert Woods   26664   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26664/stats;type=week;week=1
+WouldaShouldaCoulda 1 2 1
+
+390   JuJu Smith-Schuster   30175   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30175/stats;type=week;week=1
+WouldaShouldaCoulda 1 3 1
+
+390   Todd Gurley II   28398   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28398/stats;type=week;week=1
+WouldaShouldaCoulda 1 4 1
+
+390   Ezekiel Elliott   29238   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29238/stats;type=week;week=1
+WouldaShouldaCoulda 1 5 1
+
+390   Austin Hooper   29315   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29315/stats;type=week;week=1
+WouldaShouldaCoulda 1 6 1
+
+390   Chris Carson   30362   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30362/stats;type=week;week=1
+WouldaShouldaCoulda 1 7 1
+
+390   Phillip Lindsay   31379   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31379/stats;type=week;week=1
+WouldaShouldaCoulda 1 8 1
+
+390   Josh Gordon   26561   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26561/stats;type=week;week=1
+WouldaShouldaCoulda 1 9 1
+
+390   Kyler Murray   31833   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31833/stats;type=week;week=1
+WouldaShouldaCoulda 1 10 1
+
+390   Kenyan Drake   29307   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29307/stats;type=week;week=1
+WouldaShouldaCoulda 1 11 1
+
+390   Justin Tucker   26534   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26534/stats;type=week;week=1
+WouldaShouldaCoulda 1 12 1
+
+390   Chicago   100003   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100003/stats;type=week;week=1
+WouldaShouldaCoulda 1 13 1
+
+390   Patrick Mahomes   30123   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30123/stats;type=week;week=1
+Denver Donglords 1 0 1
+
+390   T.Y. Hilton   25802   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25802/stats;type=week;week=1
+Denver Donglords 1 1 1
+
+390   Tyreek Hill   29399   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29399/stats;type=week;week=1
+Denver Donglords 1 2 1
+
+390   Stefon Diggs   28534   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28534/stats;type=week;week=1
+Denver Donglords 1 3 1
+
+390   David Johnson   28474   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28474/stats;type=week;week=1
+Denver Donglords 1 4 1
+
+390   Damien Williams   28115   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28115/stats;type=week;week=1
+Denver Donglords 1 5 1
+
+390   Hunter Henry   29269   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29269/stats;type=week;week=1
+Denver Donglords 1 6 1
+
+390   Leonard Fournette   30117   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30117/stats;type=week;week=1
+Denver Donglords 1 7 1
+
+390   Alshon Jeffery   25755   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25755/stats;type=week;week=1
+Denver Donglords 1 8 1
+
+390   Jarvis Landry   27591   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27591/stats;type=week;week=1
+Denver Donglords 1 9 1
+
+390   Tarik Cohen   30232   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30232/stats;type=week;week=1
+Denver Donglords 1 10 1
+
+390   Will Fuller V   29255   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29255/stats;type=week;week=1
+Denver Donglords 1 11 1
+
+390   Jason Myers   28378   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28378/stats;type=week;week=1
+Denver Donglords 1 12 1
+
+390   Cleveland   100005   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100005/stats;type=week;week=1
+Denver Donglords 1 13 1
+
+390   Drew Brees   5479   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5479/stats;type=week;week=1
+MX Mustache Rides 1 0 1
+
+390   Odell Beckham Jr.   27540   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27540/stats;type=week;week=1
+MX Mustache Rides 1 1 1
+
+390   Brandin Cooks   27548   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27548/stats;type=week;week=1
+MX Mustache Rides 1 2 1
+
+390   Tyler Boyd   29288   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29288/stats;type=week;week=1
+MX Mustache Rides 1 3 1
+
+390   Nick Chubb   31005   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31005/stats;type=week;week=1
+MX Mustache Rides 1 4 1
+
+390   Dalvin Cook   30154   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30154/stats;type=week;week=1
+MX Mustache Rides 1 5 1
+
+390   Vance McDonald   26678   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26678/stats;type=week;week=1
+MX Mustache Rides 1 6 1
+
+390   Alvin Kamara   30180   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30180/stats;type=week;week=1
+MX Mustache Rides 1 7 1
+
+390   Josh Jacobs   31856   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31856/stats;type=week;week=1
+MX Mustache Rides 1 8 1
+
+390   Sterling Shepard   29274   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29274/stats;type=week;week=1
+MX Mustache Rides 1 9 1
+
+390   Dede Westbrook   30223   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30223/stats;type=week;week=1
+MX Mustache Rides 1 10 1
+
+390   David Montgomery   31905   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31905/stats;type=week;week=1
+MX Mustache Rides 1 11 1
+
+390   Stephen Gostkowski   7867   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.7867/stats;type=week;week=1
+MX Mustache Rides 1 12 1
+
+390   Dallas   100006   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100006/stats;type=week;week=1
+MX Mustache Rides 1 13 1
+
+390   Russell Wilson   25785   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25785/stats;type=week;week=1
+Jabroni Perogi 1 0 1
+
+390   Tyler Lockett   28457   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28457/stats;type=week;week=1
+Jabroni Perogi 1 1 1
+
+390   Mike Williams   30120   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30120/stats;type=week;week=1
+Jabroni Perogi 1 2 1
+
+390   Christian Kirk   31017   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31017/stats;type=week;week=1
+Jabroni Perogi 1 3 1
+
+390   Christian McCaffrey   30121   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30121/stats;type=week;week=1
+Jabroni Perogi 1 4 1
+
+390   Devonta Freeman   27631   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27631/stats;type=week;week=1
+Jabroni Perogi 1 5 1
+
+390   Zach Ertz   26658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26658/stats;type=week;week=1
+Jabroni Perogi 1 6 1
+
+390   Kerryon Johnson   31013   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31013/stats;type=week;week=1
+Jabroni Perogi 1 7 1
+
+390   Matt Ryan   8780   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.8780/stats;type=week;week=1
+Jabroni Perogi 1 8 1
+
+390   Antonio Brown   24171   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24171/stats;type=week;week=1
+Jabroni Perogi 1 9 1
+
+390   Duke Johnson   28465   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28465/stats;type=week;week=1
+Jabroni Perogi 1 10 1
+
+390   David Njoku   30142   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30142/stats;type=week;week=1
+Jabroni Perogi 1 11 1
+
+390   Mason Crosby   8447   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.8447/stats;type=week;week=1
+Jabroni Perogi 1 12 1
+
+390   Philadelphia   100021   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100021/stats;type=week;week=1
+Jabroni Perogi 1 13 1
+
+390   Aaron Rodgers   7200   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.7200/stats;type=week;week=1
+Jerry's Big Screens 1 0 1
+
+390   Chris Godwin   30197   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30197/stats;type=week;week=1
+Jerry's Big Screens 1 1 1
+
+390   Davante Adams   27581   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27581/stats;type=week;week=1
+Jerry's Big Screens 1 2 1
+
+390   DJ Moore   30994   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30994/stats;type=week;week=1
+Jerry's Big Screens 1 3 1
+
+390   Saquon Barkley   30972   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30972/stats;type=week;week=1
+Jerry's Big Screens 1 4 1
+
+390   Aaron Jones   30295   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30295/stats;type=week;week=1
+Jerry's Big Screens 1 5 1
+
+390   O.J. Howard   30132   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30132/stats;type=week;week=1
+Jerry's Big Screens 1 6 1
+
+390   Sony Michel   31001   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31001/stats;type=week;week=1
+Jerry's Big Screens 1 7 1
+
+390   Tevin Coleman   28461   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28461/stats;type=week;week=1
+Jerry's Big Screens 1 8 1
+
+390   Corey Davis   30118   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30118/stats;type=week;week=1
+Jerry's Big Screens 1 9 1
+
+390   LeSean McCoy   9317   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9317/stats;type=week;week=1
+Jerry's Big Screens 1 10 1
+
+390   Jared Goff   29235   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29235/stats;type=week;week=1
+Jerry's Big Screens 1 11 1
+
+390   Ka'imi Fairbairn   29792   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29792/stats;type=week;week=1
+Jerry's Big Screens 1 12 1
+
+390   Los Angeles   100024   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100024/stats;type=week;week=1
+Jerry's Big Screens 1 13 1
+

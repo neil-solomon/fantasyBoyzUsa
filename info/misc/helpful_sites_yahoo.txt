@@ -1,0 +1,13 @@
+https://pypi.org/project/yahoo-fantasy-api/
+https://yahoo-fantasy-api.readthedocs.io/en/latest/yahoo_fantasy_api.html
+https://developer.yahoo.com/fantasysports/guide/player-resource.html
+https://developer.yahoo.com/fantasysports/guide/
+https://developer.yahoo.com/apps/66tCIr30/
+https://fantasyboyzusa.com/
+https://sso.godaddy.com/login?autodetect=true&path=%2Fen-US%2Feditor%2Fe9798766-5587-4d1b-993d-864638537cbd%2F3ae29ff7-5d1d-4ed7-9e35-6520b7cbe3b2%2Fedit%2Fstyles&app=websites
+https://www.reddit.com/r/fantasyfootball/comments/9kuqar/reviving_the_yahoo_api_for_automated_data/
+https://github.com/yahoo-fantasy/nfl-fantasy-football/tree/master/Initial_Setup
+https://football.fantasysports.yahoo.com/f1/signup?ncid=dcm_22981933_251268882_447292460_118809046&dclid=&gclid=Cj0KCQjwhdTqBRDNARIsABsOl981E3_gn8KDGs845Xz6F0JRUkpqkD9E9pd_Mfh2Gv_Zyto84trWalgaAhePEALw_wcB
+https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value
+https://github.com/yahoo-fantasy/nfl-fantasy-football
+https://stackoverflow.com/questions/19483351/converting-json-string-to-dictionary-not-list

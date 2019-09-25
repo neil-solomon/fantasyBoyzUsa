@@ -1,0 +1,8 @@
+App ID
+66tCIr30
+Client ID (Consumer Key)
+dj0yJmk9R0pxc0dOeVZYQVJMJmQ9WVdrOU5qWjBRMGx5TXpBbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTFi
+Client Secret (Consumer Secret)
+a207ce01c63ca298d40f0010ddf06a7ed9f8ba75
+
+jut8st5

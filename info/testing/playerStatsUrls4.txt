@@ -1,0 +1,1662 @@
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=1
+PittsburghPoopsmiths 1 0 1
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=2
+PittsburghPoopsmiths 1 0 2
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=3
+PittsburghPoopsmiths 1 0 3
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=4
+PittsburghPoopsmiths 1 0 4
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=5
+PittsburghPoopsmiths 1 0 5
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=6
+PittsburghPoopsmiths 1 0 6
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=7
+PittsburghPoopsmiths 1 0 7
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=8
+PittsburghPoopsmiths 1 0 8
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=9
+PittsburghPoopsmiths 1 0 9
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=10
+PittsburghPoopsmiths 1 0 10
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=11
+PittsburghPoopsmiths 1 0 11
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=12
+PittsburghPoopsmiths 1 0 12
+
+390   Tom Brady   5228   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.5228/stats;type=week;week=13
+PittsburghPoopsmiths 1 0 13
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=1
+PittsburghPoopsmiths 1 1 1
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=2
+PittsburghPoopsmiths 1 1 2
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=3
+PittsburghPoopsmiths 1 1 3
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=4
+PittsburghPoopsmiths 1 1 4
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=5
+PittsburghPoopsmiths 1 1 5
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=6
+PittsburghPoopsmiths 1 1 6
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=7
+PittsburghPoopsmiths 1 1 7
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=8
+PittsburghPoopsmiths 1 1 8
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=9
+PittsburghPoopsmiths 1 1 9
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=10
+PittsburghPoopsmiths 1 1 10
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=11
+PittsburghPoopsmiths 1 1 11
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=12
+PittsburghPoopsmiths 1 1 12
+
+390   Michael Thomas   29281   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29281/stats;type=week;week=13
+PittsburghPoopsmiths 1 1 13
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=1
+PittsburghPoopsmiths 1 2 1
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=2
+PittsburghPoopsmiths 1 2 2
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=3
+PittsburghPoopsmiths 1 2 3
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=4
+PittsburghPoopsmiths 1 2 4
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=5
+PittsburghPoopsmiths 1 2 5
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=6
+PittsburghPoopsmiths 1 2 6
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=7
+PittsburghPoopsmiths 1 2 7
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=8
+PittsburghPoopsmiths 1 2 8
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=9
+PittsburghPoopsmiths 1 2 9
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=10
+PittsburghPoopsmiths 1 2 10
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=11
+PittsburghPoopsmiths 1 2 11
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=12
+PittsburghPoopsmiths 1 2 12
+
+390   Mike Evans   27535   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27535/stats;type=week;week=13
+PittsburghPoopsmiths 1 2 13
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=1
+PittsburghPoopsmiths 1 3 1
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=2
+PittsburghPoopsmiths 1 3 2
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=3
+PittsburghPoopsmiths 1 3 3
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=4
+PittsburghPoopsmiths 1 3 4
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=5
+PittsburghPoopsmiths 1 3 5
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=6
+PittsburghPoopsmiths 1 3 6
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=7
+PittsburghPoopsmiths 1 3 7
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=8
+PittsburghPoopsmiths 1 3 8
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=9
+PittsburghPoopsmiths 1 3 9
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=10
+PittsburghPoopsmiths 1 3 10
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=11
+PittsburghPoopsmiths 1 3 11
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=12
+PittsburghPoopsmiths 1 3 12
+
+390   Adam Thielen   27277   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27277/stats;type=week;week=13
+PittsburghPoopsmiths 1 3 13
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=1
+PittsburghPoopsmiths 1 4 1
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=2
+PittsburghPoopsmiths 1 4 2
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=3
+PittsburghPoopsmiths 1 4 3
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=4
+PittsburghPoopsmiths 1 4 4
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=5
+PittsburghPoopsmiths 1 4 5
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=6
+PittsburghPoopsmiths 1 4 6
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=7
+PittsburghPoopsmiths 1 4 7
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=8
+PittsburghPoopsmiths 1 4 8
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=9
+PittsburghPoopsmiths 1 4 9
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=10
+PittsburghPoopsmiths 1 4 10
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=11
+PittsburghPoopsmiths 1 4 11
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=12
+PittsburghPoopsmiths 1 4 12
+
+390   James Conner   30218   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30218/stats;type=week;week=13
+PittsburghPoopsmiths 1 4 13
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=1
+PittsburghPoopsmiths 1 5 1
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=2
+PittsburghPoopsmiths 1 5 2
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=3
+PittsburghPoopsmiths 1 5 3
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=4
+PittsburghPoopsmiths 1 5 4
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=5
+PittsburghPoopsmiths 1 5 5
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=6
+PittsburghPoopsmiths 1 5 6
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=7
+PittsburghPoopsmiths 1 5 7
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=8
+PittsburghPoopsmiths 1 5 8
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=9
+PittsburghPoopsmiths 1 5 9
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=10
+PittsburghPoopsmiths 1 5 10
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=11
+PittsburghPoopsmiths 1 5 11
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=12
+PittsburghPoopsmiths 1 5 12
+
+390   Austin Ekeler   30423   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30423/stats;type=week;week=13
+PittsburghPoopsmiths 1 5 13
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=1
+PittsburghPoopsmiths 1 6 1
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=2
+PittsburghPoopsmiths 1 6 2
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=3
+PittsburghPoopsmiths 1 6 3
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=4
+PittsburghPoopsmiths 1 6 4
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=5
+PittsburghPoopsmiths 1 6 5
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=6
+PittsburghPoopsmiths 1 6 6
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=7
+PittsburghPoopsmiths 1 6 7
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=8
+PittsburghPoopsmiths 1 6 8
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=9
+PittsburghPoopsmiths 1 6 9
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=10
+PittsburghPoopsmiths 1 6 10
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=11
+PittsburghPoopsmiths 1 6 11
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=12
+PittsburghPoopsmiths 1 6 12
+
+390   Evan Engram   30136   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30136/stats;type=week;week=13
+PittsburghPoopsmiths 1 6 13
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=1
+PittsburghPoopsmiths 1 7 1
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=2
+PittsburghPoopsmiths 1 7 2
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=3
+PittsburghPoopsmiths 1 7 3
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=4
+PittsburghPoopsmiths 1 7 4
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=5
+PittsburghPoopsmiths 1 7 5
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=6
+PittsburghPoopsmiths 1 7 6
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=7
+PittsburghPoopsmiths 1 7 7
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=8
+PittsburghPoopsmiths 1 7 8
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=9
+PittsburghPoopsmiths 1 7 9
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=10
+PittsburghPoopsmiths 1 7 10
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=11
+PittsburghPoopsmiths 1 7 11
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=12
+PittsburghPoopsmiths 1 7 12
+
+390   James White   27658   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27658/stats;type=week;week=13
+PittsburghPoopsmiths 1 7 13
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=1
+PittsburghPoopsmiths 1 8 1
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=2
+PittsburghPoopsmiths 1 8 2
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=3
+PittsburghPoopsmiths 1 8 3
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=4
+PittsburghPoopsmiths 1 8 4
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=5
+PittsburghPoopsmiths 1 8 5
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=6
+PittsburghPoopsmiths 1 8 6
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=7
+PittsburghPoopsmiths 1 8 7
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=8
+PittsburghPoopsmiths 1 8 8
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=9
+PittsburghPoopsmiths 1 8 9
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=10
+PittsburghPoopsmiths 1 8 10
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=11
+PittsburghPoopsmiths 1 8 11
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=12
+PittsburghPoopsmiths 1 8 12
+
+390   Julian Edelman   9496   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9496/stats;type=week;week=13
+PittsburghPoopsmiths 1 8 13
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=1
+PittsburghPoopsmiths 1 9 1
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=2
+PittsburghPoopsmiths 1 9 2
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=3
+PittsburghPoopsmiths 1 9 3
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=4
+PittsburghPoopsmiths 1 9 4
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=5
+PittsburghPoopsmiths 1 9 5
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=6
+PittsburghPoopsmiths 1 9 6
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=7
+PittsburghPoopsmiths 1 9 7
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=8
+PittsburghPoopsmiths 1 9 8
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=9
+PittsburghPoopsmiths 1 9 9
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=10
+PittsburghPoopsmiths 1 9 10
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=11
+PittsburghPoopsmiths 1 9 11
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=12
+PittsburghPoopsmiths 1 9 12
+
+390   Baker Mayfield   30971   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30971/stats;type=week;week=13
+PittsburghPoopsmiths 1 9 13
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=1
+PittsburghPoopsmiths 1 10 1
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=2
+PittsburghPoopsmiths 1 10 2
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=3
+PittsburghPoopsmiths 1 10 3
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=4
+PittsburghPoopsmiths 1 10 4
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=5
+PittsburghPoopsmiths 1 10 5
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=6
+PittsburghPoopsmiths 1 10 6
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=7
+PittsburghPoopsmiths 1 10 7
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=8
+PittsburghPoopsmiths 1 10 8
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=9
+PittsburghPoopsmiths 1 10 9
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=10
+PittsburghPoopsmiths 1 10 10
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=11
+PittsburghPoopsmiths 1 10 11
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=12
+PittsburghPoopsmiths 1 10 12
+
+390   Melvin Gordon III   28403   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28403/stats;type=week;week=13
+PittsburghPoopsmiths 1 10 13
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=1
+PittsburghPoopsmiths 1 11 1
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=2
+PittsburghPoopsmiths 1 11 2
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=3
+PittsburghPoopsmiths 1 11 3
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=4
+PittsburghPoopsmiths 1 11 4
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=5
+PittsburghPoopsmiths 1 11 5
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=6
+PittsburghPoopsmiths 1 11 6
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=7
+PittsburghPoopsmiths 1 11 7
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=8
+PittsburghPoopsmiths 1 11 8
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=9
+PittsburghPoopsmiths 1 11 9
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=10
+PittsburghPoopsmiths 1 11 10
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=11
+PittsburghPoopsmiths 1 11 11
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=12
+PittsburghPoopsmiths 1 11 12
+
+390   Tyrell Williams   28691   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28691/stats;type=week;week=13
+PittsburghPoopsmiths 1 11 13
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=1
+PittsburghPoopsmiths 1 12 1
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=2
+PittsburghPoopsmiths 1 12 2
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=3
+PittsburghPoopsmiths 1 12 3
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=4
+PittsburghPoopsmiths 1 12 4
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=5
+PittsburghPoopsmiths 1 12 5
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=6
+PittsburghPoopsmiths 1 12 6
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=7
+PittsburghPoopsmiths 1 12 7
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=8
+PittsburghPoopsmiths 1 12 8
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=9
+PittsburghPoopsmiths 1 12 9
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=10
+PittsburghPoopsmiths 1 12 10
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=11
+PittsburghPoopsmiths 1 12 11
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=12
+PittsburghPoopsmiths 1 12 12
+
+390   Harrison Butker   30346   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30346/stats;type=week;week=13
+PittsburghPoopsmiths 1 12 13
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=1
+PittsburghPoopsmiths 1 13 1
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=2
+PittsburghPoopsmiths 1 13 2
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=3
+PittsburghPoopsmiths 1 13 3
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=4
+PittsburghPoopsmiths 1 13 4
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=5
+PittsburghPoopsmiths 1 13 5
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=6
+PittsburghPoopsmiths 1 13 6
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=7
+PittsburghPoopsmiths 1 13 7
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=8
+PittsburghPoopsmiths 1 13 8
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=9
+PittsburghPoopsmiths 1 13 9
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=10
+PittsburghPoopsmiths 1 13 10
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=11
+PittsburghPoopsmiths 1 13 11
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=12
+PittsburghPoopsmiths 1 13 12
+
+390   Baltimore   100033   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100033/stats;type=week;week=13
+PittsburghPoopsmiths 1 13 13
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=1
+Brooklyn Butphux 1 0 1
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=2
+Brooklyn Butphux 1 0 2
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=3
+Brooklyn Butphux 1 0 3
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=4
+Brooklyn Butphux 1 0 4
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=5
+Brooklyn Butphux 1 0 5
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=6
+Brooklyn Butphux 1 0 6
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=7
+Brooklyn Butphux 1 0 7
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=8
+Brooklyn Butphux 1 0 8
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=9
+Brooklyn Butphux 1 0 9
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=10
+Brooklyn Butphux 1 0 10
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=11
+Brooklyn Butphux 1 0 11
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=12
+Brooklyn Butphux 1 0 12
+
+390   Deshaun Watson   30125   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30125/stats;type=week;week=13
+Brooklyn Butphux 1 0 13
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=1
+Brooklyn Butphux 1 1 1
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=2
+Brooklyn Butphux 1 1 2
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=3
+Brooklyn Butphux 1 1 3
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=4
+Brooklyn Butphux 1 1 4
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=5
+Brooklyn Butphux 1 1 5
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=6
+Brooklyn Butphux 1 1 6
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=7
+Brooklyn Butphux 1 1 7
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=8
+Brooklyn Butphux 1 1 8
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=9
+Brooklyn Butphux 1 1 9
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=10
+Brooklyn Butphux 1 1 10
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=11
+Brooklyn Butphux 1 1 11
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=12
+Brooklyn Butphux 1 1 12
+
+390   DeAndre Hopkins   26650   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26650/stats;type=week;week=13
+Brooklyn Butphux 1 1 13
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=1
+Brooklyn Butphux 1 2 1
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=2
+Brooklyn Butphux 1 2 2
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=3
+Brooklyn Butphux 1 2 3
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=4
+Brooklyn Butphux 1 2 4
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=5
+Brooklyn Butphux 1 2 5
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=6
+Brooklyn Butphux 1 2 6
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=7
+Brooklyn Butphux 1 2 7
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=8
+Brooklyn Butphux 1 2 8
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=9
+Brooklyn Butphux 1 2 9
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=10
+Brooklyn Butphux 1 2 10
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=11
+Brooklyn Butphux 1 2 11
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=12
+Brooklyn Butphux 1 2 12
+
+390   Kenny Golladay   30209   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30209/stats;type=week;week=13
+Brooklyn Butphux 1 2 13
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=1
+Brooklyn Butphux 1 3 1
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=2
+Brooklyn Butphux 1 3 2
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=3
+Brooklyn Butphux 1 3 3
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=4
+Brooklyn Butphux 1 3 4
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=5
+Brooklyn Butphux 1 3 5
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=6
+Brooklyn Butphux 1 3 6
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=7
+Brooklyn Butphux 1 3 7
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=8
+Brooklyn Butphux 1 3 8
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=9
+Brooklyn Butphux 1 3 9
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=10
+Brooklyn Butphux 1 3 10
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=11
+Brooklyn Butphux 1 3 11
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=12
+Brooklyn Butphux 1 3 12
+
+390   Emmanuel Sanders   24057   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24057/stats;type=week;week=13
+Brooklyn Butphux 1 3 13
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=1
+Brooklyn Butphux 1 4 1
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=2
+Brooklyn Butphux 1 4 2
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=3
+Brooklyn Butphux 1 4 3
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=4
+Brooklyn Butphux 1 4 4
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=5
+Brooklyn Butphux 1 4 5
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=6
+Brooklyn Butphux 1 4 6
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=7
+Brooklyn Butphux 1 4 7
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=8
+Brooklyn Butphux 1 4 8
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=9
+Brooklyn Butphux 1 4 9
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=10
+Brooklyn Butphux 1 4 10
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=11
+Brooklyn Butphux 1 4 11
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=12
+Brooklyn Butphux 1 4 12
+
+390   Le'Veon Bell   26671   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26671/stats;type=week;week=13
+Brooklyn Butphux 1 4 13
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=1
+Brooklyn Butphux 1 5 1
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=2
+Brooklyn Butphux 1 5 2
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=3
+Brooklyn Butphux 1 5 3
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=4
+Brooklyn Butphux 1 5 4
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=5
+Brooklyn Butphux 1 5 5
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=6
+Brooklyn Butphux 1 5 6
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=7
+Brooklyn Butphux 1 5 7
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=8
+Brooklyn Butphux 1 5 8
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=9
+Brooklyn Butphux 1 5 9
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=10
+Brooklyn Butphux 1 5 10
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=11
+Brooklyn Butphux 1 5 11
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=12
+Brooklyn Butphux 1 5 12
+
+390   Mark Ingram II   24815   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24815/stats;type=week;week=13
+Brooklyn Butphux 1 5 13
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=1
+Brooklyn Butphux 1 6 1
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=2
+Brooklyn Butphux 1 6 2
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=3
+Brooklyn Butphux 1 6 3
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=4
+Brooklyn Butphux 1 6 4
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=5
+Brooklyn Butphux 1 6 5
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=6
+Brooklyn Butphux 1 6 6
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=7
+Brooklyn Butphux 1 6 7
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=8
+Brooklyn Butphux 1 6 8
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=9
+Brooklyn Butphux 1 6 9
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=10
+Brooklyn Butphux 1 6 10
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=11
+Brooklyn Butphux 1 6 11
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=12
+Brooklyn Butphux 1 6 12
+
+390   Travis Kelce   26686   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26686/stats;type=week;week=13
+Brooklyn Butphux 1 6 13
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=1
+Brooklyn Butphux 1 7 1
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=2
+Brooklyn Butphux 1 7 2
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=3
+Brooklyn Butphux 1 7 3
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=4
+Brooklyn Butphux 1 7 4
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=5
+Brooklyn Butphux 1 7 5
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=6
+Brooklyn Butphux 1 7 6
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=7
+Brooklyn Butphux 1 7 7
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=8
+Brooklyn Butphux 1 7 8
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=9
+Brooklyn Butphux 1 7 9
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=10
+Brooklyn Butphux 1 7 10
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=11
+Brooklyn Butphux 1 7 11
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=12
+Brooklyn Butphux 1 7 12
+
+390   Joe Mixon   30161   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30161/stats;type=week;week=13
+Brooklyn Butphux 1 7 13
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=1
+Brooklyn Butphux 1 8 1
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=2
+Brooklyn Butphux 1 8 2
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=3
+Brooklyn Butphux 1 8 3
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=4
+Brooklyn Butphux 1 8 4
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=5
+Brooklyn Butphux 1 8 5
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=6
+Brooklyn Butphux 1 8 6
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=7
+Brooklyn Butphux 1 8 7
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=8
+Brooklyn Butphux 1 8 8
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=9
+Brooklyn Butphux 1 8 9
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=10
+Brooklyn Butphux 1 8 10
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=11
+Brooklyn Butphux 1 8 11
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=12
+Brooklyn Butphux 1 8 12
+
+390   Cooper Kupp   30182   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30182/stats;type=week;week=13
+Brooklyn Butphux 1 8 13
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=1
+Brooklyn Butphux 1 9 1
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=2
+Brooklyn Butphux 1 9 2
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=3
+Brooklyn Butphux 1 9 3
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=4
+Brooklyn Butphux 1 9 4
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=5
+Brooklyn Butphux 1 9 5
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=6
+Brooklyn Butphux 1 9 6
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=7
+Brooklyn Butphux 1 9 7
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=8
+Brooklyn Butphux 1 9 8
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=9
+Brooklyn Butphux 1 9 9
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=10
+Brooklyn Butphux 1 9 10
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=11
+Brooklyn Butphux 1 9 11
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=12
+Brooklyn Butphux 1 9 12
+
+390   Latavius Murray   26804   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.26804/stats;type=week;week=13
+Brooklyn Butphux 1 9 13
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=1
+Brooklyn Butphux 1 10 1
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=2
+Brooklyn Butphux 1 10 2
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=3
+Brooklyn Butphux 1 10 3
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=4
+Brooklyn Butphux 1 10 4
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=5
+Brooklyn Butphux 1 10 5
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=6
+Brooklyn Butphux 1 10 6
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=7
+Brooklyn Butphux 1 10 7
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=8
+Brooklyn Butphux 1 10 8
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=9
+Brooklyn Butphux 1 10 9
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=10
+Brooklyn Butphux 1 10 10
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=11
+Brooklyn Butphux 1 10 11
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=12
+Brooklyn Butphux 1 10 12
+
+390   Devin Singletary   31906   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31906/stats;type=week;week=13
+Brooklyn Butphux 1 10 13
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=1
+Brooklyn Butphux 1 11 1
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=2
+Brooklyn Butphux 1 11 2
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=3
+Brooklyn Butphux 1 11 3
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=4
+Brooklyn Butphux 1 11 4
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=5
+Brooklyn Butphux 1 11 5
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=6
+Brooklyn Butphux 1 11 6
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=7
+Brooklyn Butphux 1 11 7
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=8
+Brooklyn Butphux 1 11 8
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=9
+Brooklyn Butphux 1 11 9
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=10
+Brooklyn Butphux 1 11 10
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=11
+Brooklyn Butphux 1 11 11
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=12
+Brooklyn Butphux 1 11 12
+
+390   Larry Fitzgerald   6762   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.6762/stats;type=week;week=13
+Brooklyn Butphux 1 11 13
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=1
+Brooklyn Butphux 1 12 1
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=2
+Brooklyn Butphux 1 12 2
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=3
+Brooklyn Butphux 1 12 3
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=4
+Brooklyn Butphux 1 12 4
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=5
+Brooklyn Butphux 1 12 5
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=6
+Brooklyn Butphux 1 12 6
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=7
+Brooklyn Butphux 1 12 7
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=8
+Brooklyn Butphux 1 12 8
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=9
+Brooklyn Butphux 1 12 9
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=10
+Brooklyn Butphux 1 12 10
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=11
+Brooklyn Butphux 1 12 11
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=12
+Brooklyn Butphux 1 12 12
+
+390   Wil Lutz   29754   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29754/stats;type=week;week=13
+Brooklyn Butphux 1 12 13
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=1
+Brooklyn Butphux 1 13 1
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=2
+Brooklyn Butphux 1 13 2
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=3
+Brooklyn Butphux 1 13 3
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=4
+Brooklyn Butphux 1 13 4
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=5
+Brooklyn Butphux 1 13 5
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=6
+Brooklyn Butphux 1 13 6
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=7
+Brooklyn Butphux 1 13 7
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=8
+Brooklyn Butphux 1 13 8
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=9
+Brooklyn Butphux 1 13 9
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=10
+Brooklyn Butphux 1 13 10
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=11
+Brooklyn Butphux 1 13 11
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=12
+Brooklyn Butphux 1 13 12
+
+390   Houston   100034   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100034/stats;type=week;week=13
+Brooklyn Butphux 1 13 13
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=1
+Brooklyn Butphux 1 14 1
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=2
+Brooklyn Butphux 1 14 2
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=3
+Brooklyn Butphux 1 14 3
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=4
+Brooklyn Butphux 1 14 4
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=5
+Brooklyn Butphux 1 14 5
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=6
+Brooklyn Butphux 1 14 6
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=7
+Brooklyn Butphux 1 14 7
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=8
+Brooklyn Butphux 1 14 8
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=9
+Brooklyn Butphux 1 14 9
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=10
+Brooklyn Butphux 1 14 10
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=11
+Brooklyn Butphux 1 14 11
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=12
+Brooklyn Butphux 1 14 12
+
+390   A.J. Green   24791   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24791/stats;type=week;week=13
+Brooklyn Butphux 1 14 13
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=1
+Ark of the Covfefe 1 0 1
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=2
+Ark of the Covfefe 1 0 2
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=3
+Ark of the Covfefe 1 0 3
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=4
+Ark of the Covfefe 1 0 4
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=5
+Ark of the Covfefe 1 0 5
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=6
+Ark of the Covfefe 1 0 6
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=7
+Ark of the Covfefe 1 0 7
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=8
+Ark of the Covfefe 1 0 8
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=9
+Ark of the Covfefe 1 0 9
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=10
+Ark of the Covfefe 1 0 10
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=11
+Ark of the Covfefe 1 0 11
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=12
+Ark of the Covfefe 1 0 12
+
+390   Cam Newton   24788   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24788/stats;type=week;week=13
+Ark of the Covfefe 1 0 13
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=1
+Ark of the Covfefe 1 1 1
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=2
+Ark of the Covfefe 1 1 2
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=3
+Ark of the Covfefe 1 1 3
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=4
+Ark of the Covfefe 1 1 4
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=5
+Ark of the Covfefe 1 1 5
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=6
+Ark of the Covfefe 1 1 6
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=7
+Ark of the Covfefe 1 1 7
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=8
+Ark of the Covfefe 1 1 8
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=9
+Ark of the Covfefe 1 1 9
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=10
+Ark of the Covfefe 1 1 10
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=11
+Ark of the Covfefe 1 1 11
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=12
+Ark of the Covfefe 1 1 12
+
+390   Julio Jones   24793   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.24793/stats;type=week;week=13
+Ark of the Covfefe 1 1 13
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=1
+Ark of the Covfefe 1 2 1
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=2
+Ark of the Covfefe 1 2 2
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=3
+Ark of the Covfefe 1 2 3
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=4
+Ark of the Covfefe 1 2 4
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=5
+Ark of the Covfefe 1 2 5
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=6
+Ark of the Covfefe 1 2 6
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=7
+Ark of the Covfefe 1 2 7
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=8
+Ark of the Covfefe 1 2 8
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=9
+Ark of the Covfefe 1 2 9
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=10
+Ark of the Covfefe 1 2 10
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=11
+Ark of the Covfefe 1 2 11
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=12
+Ark of the Covfefe 1 2 12
+
+390   Amari Cooper   28392   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28392/stats;type=week;week=13
+Ark of the Covfefe 1 2 13
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=1
+Ark of the Covfefe 1 3 1
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=2
+Ark of the Covfefe 1 3 2
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=3
+Ark of the Covfefe 1 3 3
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=4
+Ark of the Covfefe 1 3 4
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=5
+Ark of the Covfefe 1 3 5
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=6
+Ark of the Covfefe 1 3 6
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=7
+Ark of the Covfefe 1 3 7
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=8
+Ark of the Covfefe 1 3 8
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=9
+Ark of the Covfefe 1 3 9
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=10
+Ark of the Covfefe 1 3 10
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=11
+Ark of the Covfefe 1 3 11
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=12
+Ark of the Covfefe 1 3 12
+
+390   Allen Robinson II   27589   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.27589/stats;type=week;week=13
+Ark of the Covfefe 1 3 13
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=1
+Ark of the Covfefe 1 4 1
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=2
+Ark of the Covfefe 1 4 2
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=3
+Ark of the Covfefe 1 4 3
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=4
+Ark of the Covfefe 1 4 4
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=5
+Ark of the Covfefe 1 4 5
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=6
+Ark of the Covfefe 1 4 6
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=7
+Ark of the Covfefe 1 4 7
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=8
+Ark of the Covfefe 1 4 8
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=9
+Ark of the Covfefe 1 4 9
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=10
+Ark of the Covfefe 1 4 10
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=11
+Ark of the Covfefe 1 4 11
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=12
+Ark of the Covfefe 1 4 12
+
+390   Derrick Henry   29279   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.29279/stats;type=week;week=13
+Ark of the Covfefe 1 4 13
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=1
+Ark of the Covfefe 1 5 1
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=2
+Ark of the Covfefe 1 5 2
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=3
+Ark of the Covfefe 1 5 3
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=4
+Ark of the Covfefe 1 5 4
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=5
+Ark of the Covfefe 1 5 5
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=6
+Ark of the Covfefe 1 5 6
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=7
+Ark of the Covfefe 1 5 7
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=8
+Ark of the Covfefe 1 5 8
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=9
+Ark of the Covfefe 1 5 9
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=10
+Ark of the Covfefe 1 5 10
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=11
+Ark of the Covfefe 1 5 11
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=12
+Ark of the Covfefe 1 5 12
+
+390   Marlon Mack   30256   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30256/stats;type=week;week=13
+Ark of the Covfefe 1 5 13
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=1
+Ark of the Covfefe 1 6 1
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=2
+Ark of the Covfefe 1 6 2
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=3
+Ark of the Covfefe 1 6 3
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=4
+Ark of the Covfefe 1 6 4
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=5
+Ark of the Covfefe 1 6 5
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=6
+Ark of the Covfefe 1 6 6
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=7
+Ark of the Covfefe 1 6 7
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=8
+Ark of the Covfefe 1 6 8
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=9
+Ark of the Covfefe 1 6 9
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=10
+Ark of the Covfefe 1 6 10
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=11
+Ark of the Covfefe 1 6 11
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=12
+Ark of the Covfefe 1 6 12
+
+390   George Kittle   30259   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30259/stats;type=week;week=13
+Ark of the Covfefe 1 6 13
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=1
+Ark of the Covfefe 1 7 1
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=2
+Ark of the Covfefe 1 7 2
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=3
+Ark of the Covfefe 1 7 3
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=4
+Ark of the Covfefe 1 7 4
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=5
+Ark of the Covfefe 1 7 5
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=6
+Ark of the Covfefe 1 7 6
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=7
+Ark of the Covfefe 1 7 7
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=8
+Ark of the Covfefe 1 7 8
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=9
+Ark of the Covfefe 1 7 9
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=10
+Ark of the Covfefe 1 7 10
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=11
+Ark of the Covfefe 1 7 11
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=12
+Ark of the Covfefe 1 7 12
+
+390   Calvin Ridley   30996   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30996/stats;type=week;week=13
+Ark of the Covfefe 1 7 13
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=1
+Ark of the Covfefe 1 8 1
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=2
+Ark of the Covfefe 1 8 2
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=3
+Ark of the Covfefe 1 8 3
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=4
+Ark of the Covfefe 1 8 4
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=5
+Ark of the Covfefe 1 8 5
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=6
+Ark of the Covfefe 1 8 6
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=7
+Ark of the Covfefe 1 8 7
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=8
+Ark of the Covfefe 1 8 8
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=9
+Ark of the Covfefe 1 8 9
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=10
+Ark of the Covfefe 1 8 10
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=11
+Ark of the Covfefe 1 8 11
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=12
+Ark of the Covfefe 1 8 12
+
+390   Miles Sanders   31885   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.31885/stats;type=week;week=13
+Ark of the Covfefe 1 8 13
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=1
+Ark of the Covfefe 1 9 1
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=2
+Ark of the Covfefe 1 9 2
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=3
+Ark of the Covfefe 1 9 3
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=4
+Ark of the Covfefe 1 9 4
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=5
+Ark of the Covfefe 1 9 5
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=6
+Ark of the Covfefe 1 9 6
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=7
+Ark of the Covfefe 1 9 7
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=8
+Ark of the Covfefe 1 9 8
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=9
+Ark of the Covfefe 1 9 9
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=10
+Ark of the Covfefe 1 9 10
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=11
+Ark of the Covfefe 1 9 11
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=12
+Ark of the Covfefe 1 9 12
+
+390   Curtis Samuel   30153   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.30153/stats;type=week;week=13
+Ark of the Covfefe 1 9 13
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=1
+Ark of the Covfefe 1 10 1
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=2
+Ark of the Covfefe 1 10 2
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=3
+Ark of the Covfefe 1 10 3
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=4
+Ark of the Covfefe 1 10 4
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=5
+Ark of the Covfefe 1 10 5
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=6
+Ark of the Covfefe 1 10 6
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=7
+Ark of the Covfefe 1 10 7
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=8
+Ark of the Covfefe 1 10 8
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=9
+Ark of the Covfefe 1 10 9
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=10
+Ark of the Covfefe 1 10 10
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=11
+Ark of the Covfefe 1 10 11
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=12
+Ark of the Covfefe 1 10 12
+
+390   Jared Cook   9353   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.9353/stats;type=week;week=13
+Ark of the Covfefe 1 10 13
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=1
+Ark of the Covfefe 1 11 1
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=2
+Ark of the Covfefe 1 11 2
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=3
+Ark of the Covfefe 1 11 3
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=4
+Ark of the Covfefe 1 11 4
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=5
+Ark of the Covfefe 1 11 5
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=6
+Ark of the Covfefe 1 11 6
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=7
+Ark of the Covfefe 1 11 7
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=8
+Ark of the Covfefe 1 11 8
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=9
+Ark of the Covfefe 1 11 9
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=10
+Ark of the Covfefe 1 11 10
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=11
+Ark of the Covfefe 1 11 11
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=12
+Ark of the Covfefe 1 11 12
+
+390   Jameis Winston   28389   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.28389/stats;type=week;week=13
+Ark of the Covfefe 1 11 13
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=1
+Ark of the Covfefe 1 12 1
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=2
+Ark of the Covfefe 1 12 2
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=3
+Ark of the Covfefe 1 12 3
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=4
+Ark of the Covfefe 1 12 4
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=5
+Ark of the Covfefe 1 12 5
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=6
+Ark of the Covfefe 1 12 6
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=7
+Ark of the Covfefe 1 12 7
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=8
+Ark of the Covfefe 1 12 8
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=9
+Ark of the Covfefe 1 12 9
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=10
+Ark of the Covfefe 1 12 10
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=11
+Ark of the Covfefe 1 12 11
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=12
+Ark of the Covfefe 1 12 12
+
+390   Greg Zuerlein   25881   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.25881/stats;type=week;week=13
+Ark of the Covfefe 1 12 13
+
+390   Jacksonville   100030   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100030/stats;type=week;week=1
+Ark of the Covfefe 1 13 1
+
+390   Jacksonville   100030   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100030/stats;type=week;week=2
+Ark of the Covfefe 1 13 2
+
+390   Jacksonville   100030   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100030/stats;type=week;week=3
+Ark of the Covfefe 1 13 3
+
+390   Jacksonville   100030   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100030/stats;type=week;week=4
+Ark of the Covfefe 1 13 4
+
+390   Jacksonville   100030   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100030/stats;type=week;week=5
+Ark of the Covfefe 1 13 5
+
+390   Jacksonville   100030   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100030/stats;type=week;week=6
+Ark of the Covfefe 1 13 6
+
+390   Jacksonville   100030   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100030/stats;type=week;week=7
+Ark of the Covfefe 1 13 7
+
+390   Jacksonville   100030   https://fantasysports.yahooapis.com/fantasy/v2/player/390.p.100030/stats;type=week;week=8
+Ark of the Covfefe 1 13 8
+

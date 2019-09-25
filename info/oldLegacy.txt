@@ -1,0 +1,99 @@
+Brooklyn
+		2013	2014	2015	2016	2017	2018
+RegSesWins	7	9	7	11	8	5
+GamesLeader	2	1	3	2	2	1
+BigGames	0	0	1	1	0	1
+RegSesPts	1912	2072.5	1887.5	2041	1957.2	2146.63
+PlayoffWins	0	2	0	1	0	0
+Championship	0	1	0	0	0	0
+FinalStanding	5	1	3	2	4	5
+
+Pittsburgh
+		2013	2014	2015	2016	2017	2018
+RegSesWins	10	8	5	12	9	7
+GamesLeader	2	3	0	3	3	3
+BigGames	0	2	1	0	1	0
+RegSesPts	1966	2115.5	1842	2028	2191.06	2259.21
+PlayoffWins	0	1	0	0	2	0
+Championship	0	0	0	0	1	0
+FinalStanding	3	2	5	3	1	8
+
+MX
+		2013	2014	2015	2016	2017	2018
+RegSesWins	5	9	8	8	11	10
+GamesLeader	1	1	1	4	4	4
+BigGames	0	0	1	1	2	4
+RegSesPts	1790	1966	1968.5	2022	2259	2466.33
+PlayoffWins	0	0	2	2	1	0
+Championship	0	0	1	1	0	0
+FinalStanding	9	3	1	1	2	3
+
+Jabroni
+		2013	2014	2015	2016	2017	2018
+RegSesWins	6	4	7	9	5	4
+GamesLeader	1	0	2	2	1	0
+BigGames	0	1	1	0	1	1
+RegSesPts	1601	1766.5	1932.5	1991.5	1644.11	1947.06
+PlayoffWins	0	0	0	0	0	0
+Championship	0	0	0	0	0	0
+FinalStanding	11	10	4	4	7	7
+
+Ark
+		2013	2014	2015	2016	2017	2018
+RegSesWins	-	-	-	3	9	4
+GamesLeader	-	-	-	0	2	0
+BigGames	-	-	-	0	0	0
+RegSesPts	-	-	-	1640.5	1915.62	1795.43
+PlayoffWins	-	-	-	0	0	0
+Championship	-	-	-	0	0	0
+FinalStanding	-	-	-	6	3	6
+
+Denver
+		2013	2014	2015	2016	2017	2018	
+RegSesWins	6	7	12	7	5	11
+GamesLeader	1	2	5	1	2	2
+BigGames	0	3	3	0	0	2
+RegSesPts	1819	2080.5	2126	1803.5	1804.85	2336.21
+PlayoffWins	0	0	1	0	0	0
+Championship	0	0	0	0	0	0
+FinalStanding	10	5	2	5	5	4
+
+Woulda
+		2013	2014	2015	2016	2017	2018
+RegSesWins	9	8	6	6	5	7
+GamesLeader	0	4	2	0	2	1
+BigGames	0	1	0	0	0	2
+RegSesPts	1923	2206.5	1782	1710	1851.87	2393.88
+PlayoffWins	0	0	0	0	0	1
+Championship	0	0	0	0	0	0
+FinalStanding	4	8	7	8	6	2
+
+Jerry
+		2013	2014	2015	2016	2017	2018
+RegSesWins	-	-	-	-	-	8
+GamesLeader	-	-	-	-	-	3	
+BigGames	-	-	-	-	-	1	
+RegSesPts	-	-	-	-	-	2300.6
+PlayoffWins	-	-	-	-	-	2
+Championship	-	-	-	-	-	1
+FinalStanding	-	-	-	-	-	1
+
+Fumble
+		2013	2014	2015	2016	2017	2018
+RegSesWins	-	4	8	1	3	-
+GamesLeader	-	0	2	0	0	-
+BigGames	-	1	1	0	0	-
+RegSesPts	-	1763.5	1915	1174.5	1764.36	-
+PlayoffWins	-	0	0	0	0	-
+Championship	-	0	0	0	0	-
+FinalStanding	-	7	6	10	8	-
+
+LA
+		2013	2014	2015	2016	2017	2018
+RegSesWins	8	3	3	5	-	-
+GamesLeader	3	1	0	1	-	-
+BigGames	2	0	0	1	-	-
+RegSesPts	2095	1597	1617	1698	-	-
+PlayoffWins	2	0	0	0	-	-
+Championship	1	0	0	0	-	-
+FinalStanding	1	9	9	9	-	-

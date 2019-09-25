@@ -1,0 +1,60 @@
+champAvg = 161.15
+bigGame >= 200
+218 pts - Alton 2013, week 01
+203 pts - Alton 2013, week 10
+
+champAvg = 159.42
+bigGame >= 200
+205 pts - Koop 2014, week 01
+200.5 pts - Noah 2014, week 04
+216.6 pts - Mark 2014, week 04
+211 pts - Owen 2014, week 08
+217 pts - Custer 2014, week 08
+209 pts - Hartnet 2014, week 08
+212.5 pts - Mark 2014, week 10
+204 pts - Max 2014, week 11
+211.5 pts - Noah 2014, week 15
+211.5 pts - Noah 2014, week 17
+
+champAvg = 151.42
+bigGame >= 200
+223 pts - Max 2015, week 01
+217.5 pts - Andoni 2015, week 03
+218.5 pts - Noah 2015, week 05
+222.5 pts - Noah 2015, week 08
+206.5 pts - Mark 2015, week 08
+233.5 pts - Hartnet 2015, week 13
+213.5 pts - Noah 2015, week 14
+211.5 pts - Neil 2015, week 17
+
+champAvg = 155.54
+bigGame >= 200
+209 pts - Alton 2016, week 01
+206.5 pts - Neil 2016, week 01
+214.5 pts - Garrett 2016, week 10
+202.5 pts - Andoni 2016, week 11
+208.5 pts - Mark 2016, week 12
+
+champAvg = 156.5
+bigGame >= 195
+196.77 pts - Chris 2017, week 3
+206.17 pts - Andoni 2017, week 11
+227.62 pts - Andoni 2017, week 12
+201.14 pts - Mark 2017, week 14
+
+champAvg = 164.28
+bigGame >= 205
+209.86 pte - Jerry 2018, week 4
+206.86 pts - Noah 2018, week 7
+213.15 pts - Andoni 2018, week 7
+210.49 pts - Neil 2018, week 8
+233.60 pts - Andoni 2018, week 9
+210.90 pts - Custer, week 10
+215.89 pts - Andoni 2018, week 10
+237.70 pts - Noah 2018, week 11
+222.12 pts - Andoni 2018, week 14
+
+
+
+Notable: 808 pts - Noah 2014, week 14-17
+Biggest Game: 233.5 pts - Hartnet 2015, week 13, 1.54*champAvg
