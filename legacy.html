@@ -38,26 +38,106 @@
   <link href="css/style.css" rel="stylesheet">
 </head>
 
-<body>
+<body width="calc(100vw - 34px);">
     <nav class="navbar navbar-light navbar-expand-md sticky-top navigation-clean-button shadow-sm" style="background-color: rgba(255,255,255,0.95);">
         <div class="container"><a class="navbar-brand" href="index.html" style="font-size: 25px;color: rgb(87,198,198);font-family: Audiowide, cursive;padding: 0px;padding-top: 0px;padding-bottom: 0px;padding-right: 40px;padding-left: 0px;margin: 0px 0px  0px 0px;"><strong style="text-shadow: 0px 1px 1px #000000;font-family: 'Open Sans', sans-serif;color: rgb(6,164,60);font-weight: bold;" title="Fantasy Boyz USA">Fantasy Boyz USA</strong></a>
             <button
                 data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-                <div class="collapse navbar-collapse" id="navcol-1"><a data-bs-hover-animate="pulse" class="nav-item nav-link" style="color: rgb(6,164,60);margin: 0px;padding: 5px;font-family: 'Open Sans', sans-serif;padding-top: 0px;padding-bottom: 0px;padding-right: 15px;padding-left: 15px;font-size: 18px;"
-                        title="League" href="league.html">League</a><a data-bs-hover-animate="pulse" class="nav-item nav-link" href="matchups.html" style="color: rgb(6,164,60);margin: 0px;padding: 5px;font-family: 'Open Sans', sans-serif;padding-top: 0px;padding-bottom: 0px;padding-right: 15px;padding-left: 15px;font-size: 18px;"
-                        title="Matchups">Matchups</a><a data-bs-hover-animate="pulse" class="nav-item nav-link" href="news.html" style="color: rgb(6,164,60);margin: 0px;padding: 5px;font-family: 'Open Sans', sans-serif;padding-top: 0px;padding-bottom: 0px;padding-right: 15px;padding-left: 15px;font-size: 18px;"
-                        title="News">News</a><a data-bs-hover-animate="pulse" class="nav-item nav-link" style="color: rgb(6,164,60);margin: 3px;padding: 0px;font-family: 'Open Sans', sans-serif;padding-top: 0px;padding-bottom: 0px;padding-right: 15px;padding-left: 15px;"
+                <div class="collapse navbar-collapse" id="navcol-1"><a data-bs-hover-animate="pulse" class="nav-item nav-link" style="color: rgb(6,164,60);margin: 0px;padding: 0px;font-family: 'Open Sans', sans-serif;padding-top: 0px;padding-bottom: 0px;padding-right: 15px;padding-left: 15px;font-size: 18px;"
+                        title="League" href="league.html">League</a><a data-bs-hover-animate="pulse" class="nav-item nav-link" href="matchups.html" style="color: rgb(6,164,60);margin: 0px;padding: 0px;font-family: 'Open Sans', sans-serif;padding-top: 0px;padding-bottom: 0px;padding-right: 15px;padding-left: 15px;font-size: 18px;"
+                        title="Matchups">Matchups</a><a data-bs-hover-animate="pulse" class="nav-item nav-link" href="legacy.html" style="color: rgb(6,164,60);margin: 0px;padding: 0px;font-family: 'Open Sans', sans-serif;padding-top: 0px;padding-bottom: 0px;padding-right: 15px;padding-left: 15px;font-size: 18px;"
+                        title="Legacy">Legacy</a><a data-bs-hover-animate="pulse" class="nav-item nav-link" href="news.html" style="color: rgb(6,164,60);margin: 0px;padding: 0px;font-family: 'Open Sans', sans-serif;padding-top: 0px;padding-bottom: 0px;padding-right: 15px;padding-left: 15px;font-size: 18px;"
+                        title="News">News</a><a data-bs-hover-animate="pulse" class="nav-item nav-link" style="color: rgb(6,164,60);margin: 0px;padding: 0px;font-family: 'Open Sans', sans-serif;padding-top: 0px;padding-bottom: 0px;padding-right: 15px;padding-left: 15px;"
                         href="https://github.com/neil-solomon/fantasyBoyzUsa" target="_blank" title="Fantasy Boyz USA on Github"><img src="https://drive.google.com/uc?id=1HBN7s8N_CMIVQfAKfTb84u0dcI2sLp0O" width="30px" height="30px" max-width="40%"></a>
                     <iframe
-                        src="https://platform.twitter.com/widgets/follow_button.html?screen_name=BoyzUSA&amp;show_screen_name=true&amp;show_count=false" allowtransparency="true" frameborder="0" scrolling="no" title="Follow BoyzUSA on Twitter" data-bs-hover-animate="pulse"
-                        width="250" height="30" style="padding: 5px 0px;margin: 0px;"></iframe>
+                        src="https://platform.twitter.com/widgets/follow_button.html?screen_name=BoyzUSA&amp;show_screen_name=false&amp;show_count=false" allowtransparency="true" frameborder="0" scrolling="no" title="Follow BoyzUSA on Twitter" data-bs-hover-animate="pulse"
+                        width="250" height="30" style="padding: 5px 10px;margin: 0px;"></iframe>
                 </div>
         </div>
     </nav>
     <div class="container" style="padding: 5px;">
-        <p>Legacy data.</p>
+        <h4 style="color: rgb(64,64,64);">Legacy</h4>
+        <p>Historical data for all of the seasons of Fantasy Boyz. Former teams with at least four seasons and all current teams are included in the legacy.<br></p>
     </div>
-    <div class="container"></div>
+    <div class="container">
+        <div role="tablist" id="accordion-1">
+            <div class="card">
+                <div class="card-header" role="tab">
+                    <h5 class="mb-0"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-1 .item-1" href="#accordion-1 .item-1" style="color: rgb(64,64,64);">Regular Season Wins</a></h5>
+                </div>
+                <div class="collapse item-1" role="tabpanel" data-parent="#accordion-1">
+                    <div class="card-body" align="middle">
+                        <p align="left">Career regular season wins for each legacy team in Fantasy Boyz. The number of wins for each season is displayed inside the bar and the total career wins is displayed on top of the bar.</p><img class="img-fluid" style="padding: 0px;"
+                            src="https://drive.google.com/uc?id=1571IZ_UXeGdAhK8NftoSu0nmu6DLASUa"></div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" role="tab">
+                    <h5 class="mb-0"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-1 .item-2" href="#accordion-1 .item-2" style="color: rgb(64,64,64);">Regular Season Points</a></h5>
+                </div>
+                <div class="collapse item-2" role="tabpanel" data-parent="#accordion-1">
+                    <div class="card-body" align="middle">
+                        <p align="left">Career regular season points for each legacy team in Fantasy Boyz.&nbsp;The number of points for each season is displayed inside the bar and the total career points is displayed on top of the bar.<br><br></p><img class="img-fluid"
+                            src="https://drive.google.com/uc?id=1tDV1-ScJTH94gL1osWO49Eu1qK6dSa-h"></div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" role="tab">
+                    <h5 class="mb-0"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-1 .item-3" href="#accordion-1 .item-3" style="color: rgb(64,64,64);">Post Season Wins</a></h5>
+                </div>
+                <div class="collapse item-3" role="tabpanel" data-parent="#accordion-1">
+                    <div class="card-body" align="middle">
+                        <p align="left">Career post season wins for each legacy team in Fantasy Boyz. The number of wins for each season is displayed inside the bar and the total career wins is displayed on top of the bar.<br><br></p><img class="img-fluid" src="https://drive.google.com/uc?id=1JZOn4K3s3Fl7EmWlJAv3ZCgWwE83soNJ"></div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" role="tab">
+                    <h5 class="mb-0"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-1 .item-4" href="#accordion-1 .item-4" style="color: rgb(64,64,64);">Championships</a></h5>
+                </div>
+                <div class="collapse item-4" role="tabpanel" data-parent="#accordion-1">
+                    <div class="card-body" align="middle">
+                        <p align="left">Career championships for each legacy team in Fantasy Boyz. &nbsp;Perhaps the only stat that really matters.&nbsp;</p><img class="img-fluid" src="https://drive.google.com/uc?id=1Ey2jKYs2huxV8Bq_arh9E13BoF3nrILg"></div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" role="tab">
+                    <h5 class="mb-0"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-1 .item-5" href="#accordion-1 .item-5" style="color: rgb(64,64,64);">Final Standings</a></h5>
+                </div>
+                <div class="collapse item-5" role="tabpanel" data-parent="#accordion-1">
+                    <div class="card-body" align="middle">
+                        <p align="left">The final standing for each legacy team in Fantasy Boyz.&nbsp;The final standing for each season is displayed inside the bar and the career average final standing is displayed on top of the bar.<br><br></p><img class="img-fluid"
+                            src="https://drive.google.com/uc?id=1tYBk-LjUvzjx7_M3MaX9CQlj3w-02wmM"></div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" role="tab">
+                    <h5 class="mb-0"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-1 .item-6" href="#accordion-1 .item-6" style="color: rgb(64,64,64);">Week Top Score</a></h5>
+                </div>
+                <div class="collapse item-6" role="tabpanel" data-parent="#accordion-1">
+                    <div class="card-body" align="middle">
+                        <p align="left">A team achieves a top score when they score the most points in the league in a given week. This data includes both regular and post season games. The number of top scores for each season is displayed inside the bar and the total
+                            career top scores is displayed on top of the bar.<br><br></p><img class="img-fluid" src="https://drive.google.com/uc?id=1s2Pa_JfB-f2sIXWyLN973eHMgko-Gfaw"></div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" role="tab">
+                    <h5 class="mb-0"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-1 .item-7" href="#accordion-1 .item-7" style="color: rgb(64,64,64);">Big Games</a></h5>
+                </div>
+                <div class="collapse item-7" role="tabpanel" data-parent="#accordion-1">
+                    <div class="card-body" align="middle">
+                        <p align="left">A team achieves a big game when they score 25% more than the regular season average of the league champion that year. For example: in 2013 LA, the league champion, averaged 161.15 points during the regular season; so any score
+                            above 201.43 in 2013 is a big game. For the current season a big game is 25% more points than the league average for the season. This data includes both regular and post season games. The number of big games for each season
+                            is displayed inside the bar and the total career big games is displayed on top of the bar.<br></p><img class="img-fluid" src="https://drive.google.com/uc?id=1yGG2Q9KdRLs6KEcy7qjSkf1B3xb8xt3G"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="container" style="padding: 100px;"></div>
+        <a href="https://www.linkedin.com/in/neil-solomon/" style="color: rgb(178,192,205);" target="_blank">
+            <p style="color: rgb(178,192,205);font-size: 10px;" align="center">©2019 by Neil Solomon<br></p>
+        </a>
+    </footer>
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/bs-animation.js"></script>

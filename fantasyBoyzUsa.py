@@ -31,6 +31,7 @@ class fantasyLeague:
 		self.statSettings = {}
 		self.medianPoints = [0]*18 # median league score for each week
 
+
 class fantasyTeam:
 	"""
 	Holds info for each fantasy team.
@@ -73,6 +74,7 @@ class fantasyTeam:
 		self.losses = 0
 		self.ties = 0
 		self.winPercentage = ''
+		self.bigGames = 0
 		self.roster = ['']*18 # a list of weeks, each with a list of player objects
 
 
@@ -416,6 +418,7 @@ def updateNflPlayerStats(oauth, league, fantasyTeams, weekStart, weekEnd):
 
 
 
+
 def formatNflPlayerStats(teams, league, week):
 	"""
 	References the league stat dictionary to format the stats for each player and update the players total points for the week.
@@ -453,6 +456,7 @@ def formatNflPlayerStats(teams, league, week):
 
 
 
+
 def makeStatSettings(oauth, league):
 	"""
 	Makes a dictionary of the statSettings that is referenced when player stats are formatted.
@@ -484,6 +488,7 @@ def makeStatSettings(oauth, league):
 
 
 
+
 def makeTeamsNicknames(fantasyTeams):
 	"""
 	Creates nicknames for the teamName of the fantasyTeams, which is the first word of the teamName.
@@ -500,6 +505,7 @@ def makeTeamsNicknames(fantasyTeams):
 		if nickname[len(nickname)-1] == ' ':
 			nickname = nickname[0]+nickname[1]
 		fantasyTeams[team].nickname = nickname
+
 
 
 
@@ -533,6 +539,7 @@ def updateBullshit(teams, league):
 				teams[team].bullshitScore[i] = league.medianPoints[i] - teams[team].points[i]
 			elif teams[team].weekRank[i]>len(teams)/2 and teams[team].points[i]>teams[team].pointsAgainst[i]:
 				teams[team].bullshitScore[i] = league.medianPoints[i] - teams[team].points[i]
+
 
 
 
@@ -573,6 +580,7 @@ def updateMvps(fantasyTeams):
 
 
 
+
 def saveOldLegacy():
 	"""
 	Creates a dictionary of old legacy data and saves it as 'oldLegacy.json'.
@@ -595,6 +603,8 @@ def saveOldLegacy():
 	with open('C:/Users/NeilS/Desktop/FantasyBoyzUSA/info/legacy.json','w+') as file:
 		json.dump(legacy,file)
 	print(legacy)
+	print('>> old legacy data saved')
+
 
 
 
@@ -629,15 +639,16 @@ def updateLegacy(fantasyTeams, weekStart, weekEnd):
 			legacy[thisTeam]['FinalStanding'].append(fantasyTeams[thatTeam].standingsRank) # standings rank
 			legacy[thisTeam]['PlayoffWins'].append('-') # postseason wins
 			legacy[thisTeam]['Championship'].append('-') # championships
-			legacy[team]['BigGames'].append('-') # big games
-		if not found and notUpdated:
+			legacy[thisTeam]['BigGames'].append(fantasyTeams[thatTeam].bigGames) # big games
+		if not found:
+			#print('!!!')
 			legacy[team]['RegSesWins'].append('-')
 			legacy[team]['GamesLeader'].append('-')
 			legacy[team]['BigGames'].append('-')
 			legacy[team]['RegSesPts'].append('-')
 			legacy[team]['PlayoffWins'].append('-')
-			legacy[thisTeam]['Championship'].append('-') # postseason wins
-			legacy[thisTeam]['FinalStanding'].append('-') # championships
+			legacy[team]['Championship'].append('-') # postseason wins
+			legacy[team]['FinalStanding'].append('-') # championships
 	for team in legacy: # add sum to legacy stats
 		statCount = 0 # the final stat (league standing) is totaled as an average
 		for stat in legacy[team]:
@@ -659,6 +670,29 @@ def updateLegacy(fantasyTeams, weekStart, weekEnd):
 	"""
 
 
+
+def makeBigGames(fantasyTeams, weekStart):
+	"""
+	Finds the number of big games for each team for the current season. A big game is 25% more points than
+	the league average for the season.
+	Argument: dictionary of fantasyTeam objects 'fantasyTeams', int 'weekStart' is used to know how many
+	weeks are included in totalPoints.
+	Return: 
+	"""
+	totalPoints = 0
+	for team in fantasyTeams:
+		totalPoints += sum(fantasyTeams[team].points)
+	leagueAvg = totalPoints/(len(fantasyTeams)*weekStart)
+	for team in fantasyTeams:
+		for item in fantasyTeams[team].points:
+			if item>(1.25*leagueAvg):
+				fantasyTeams[team].bigGames += 1
+	#print(leagueAvg)
+	for team in fantasyTeams:
+		#print(team, fantasyTeams[team].bigGames)
+		pass
+
+
 def getDataTest(url):
 	"""
 	Attempts to grab data from the yahoo api; if successful, the data is printed. 
@@ -673,6 +707,7 @@ def getDataTest(url):
 		print('>> response.json() exception:',e)
 	if received:
 		prettyPrint(received)
+
 
 
 
@@ -710,6 +745,8 @@ def initializeLeague(weekStart, weekEnd, finalize):
 		print('>> team scoring updated')
 		updateStandings(fantasyTeams, oauth, fantasyLeague)
 		print('>> league standings updated')
+		makeBigGames(fantasyTeams, weekStart)
+		print('>> big games updated')
 		print('>> updating team rosters...')
 		updateRosters(fantasyTeams, oauth, fantasyLeague,weekStart, weekEnd)
 		print('>> team rosters updated               ')
@@ -744,9 +781,13 @@ def initializeLeague(weekStart, weekEnd, finalize):
 
 
 def main():
+	"""
+	Only update one week at a time because too many calls need to be made to the api otherwise. 
+	"""
 	#getDataTest(url = 'http://fantasysports.yahooapis.com/fantasy/v2/league/390.l.139892/players')
-	fantasyLeague, fantasyTeams = initializeLeague(3,3,True)
 	#saveOldLegacy()
+
+	fantasyLeague, fantasyTeams = initializeLeague(3,3,True)
 
 
 if __name__ == '__main__':

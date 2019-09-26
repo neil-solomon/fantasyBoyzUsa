@@ -20,7 +20,7 @@ FinalStanding	3	2	5	3	1	8
 
 MX
 		2013	2014	2015	2016	2017	2018
-RegSesWins	5	9	8	8	11	10
+RegSesWins	5	9	8	8	12	10
 GamesLeader	1	1	1	4	4	4
 200PtGames	0	0	1	1	2	4
 RegSesPts	1790	1966	1968.5	2022	2259	2466.33

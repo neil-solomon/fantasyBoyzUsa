@@ -189,7 +189,7 @@ def plotTeamsProjectedWeeklyScoring(fantasyTeams, weekStart, weekEnd, show, save
 	plt.title('Projected Scoring', fontweight='bold')
 
 	if save:
-		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotTeamsProjectedWeeklyScoring.png')
+		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotLeague/plotTeamsProjectedWeeklyScoring.png')
 	if show:
 		plt.show()
 	plt.close()
@@ -252,7 +252,7 @@ def plotTeamsPoints(fantasyTeams, weekStart, weekEnd, show, save):
 		plotNum += 1
 
 	if save:
-		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotTeamsPoints.png')
+		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotLeague/plotTeamsPoints.png')
 	if show:
 		plt.show()
 	plt.close()
@@ -300,7 +300,7 @@ def plotWinsDistribution(fantasyTeams, weekStart, weekEnd, show, save):
 		plotNum += 1
 
 	if save:
-		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotWinsDistribution.png')
+		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotLeague/plotWinsDistribution.png')
 	if show:
 		plt.show()
 	plt.close()
@@ -400,7 +400,7 @@ def plotStandings(fantasyTeams, weekStart, weekEnd, show, save):
 	fig.suptitle('Standings', fontweight='bold')
 
 	if save:
-		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotStandings.png')
+		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotLeague/plotStandings.png')
 	if show:
 		plt.show()
 	plt.close()
@@ -437,7 +437,7 @@ def plotTotalBull(fantasyTeams, show, save):
 	ax.set_title('Total Bull Score', fontweight='bold')
 	ax.axhline(0, color='black')
 	if save:
-		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotTotalBull.png')
+		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotLeague/plotTotalBull.png')
 	if show:
 		plt.show()
 	plt.close()
@@ -484,10 +484,11 @@ def plotWeeklyBull(fantasyTeams, weekStart, weekEnd, show, save):
 	plt.xlabel('week')
 
 	if save:
-		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotWeeklyBull.png')
+		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotLeague/plotWeeklyBull.png')
 	if show:
 		plt.show()
 	plt.close()
+
 
 
 def plotRosterPerformance(fantasyTeams, weekStart, weekEnd, show, save):
@@ -548,21 +549,117 @@ def plotRosterPerformance(fantasyTeams, weekStart, weekEnd, show, save):
 
 
 
-def plotLegacy(fantasyTeams, show, save):
+def makeLegacyData():
 	"""
-	Plots 
-	Argument: dictionary of fantasyTeam objects 'fantasyTeams', boolean 'show', boolean 'save'
-	Return:
+	Gets the legacy data and formats it for plotting.
+	Arguement:
+	Return: list of all legacy stats 'legacyStats'. The first entry of legacyStats is the team list, then 
+	every entry is a stat. Each entry of a stat is a year. Each entry of a year is the stat value for each
+	team in order of the teamList.
 	"""
 	with open('C:/Users/NeilS/Desktop/FantasyBoyzUSA/info/newLegacy.json','r') as file:
 		legacy = json.load(file)
 
-	return legacy
-	if save:
-		plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotRosterPerformance/plotLegacy.png')
-	if show:
-		plt.show()
-	plt.close()
+	regWinsBig = []
+	leaderBig = []
+	bigGamesBig = []
+	regPointsBig = []
+	postWinsBig = []
+	champsBig = []
+	standingBig = []
+	teamList = []
+	for team in legacy: teamList.append(team)
+	year = 0 # corresponds to 2013 season
+	while(year<8): # 7 seasons plus total
+		regWinsSmall = []
+		leaderSmall = []
+		bigGamesSmall = []
+		regPointsSmall = []
+		postWinsSmall = []
+		champsSmall = []
+		standingSmall = []
+		for team in legacy:
+			regWinsSmall.append(legacy[team]['RegSesWins'][year])
+			leaderSmall.append(legacy[team]['GamesLeader'][year])
+			bigGamesSmall.append(legacy[team]['BigGames'][year])
+			regPointsSmall.append(legacy[team]['RegSesPts'][year])
+			postWinsSmall.append(legacy[team]['PlayoffWins'][year])
+			champsSmall.append(legacy[team]['Championship'][year])
+			standingSmall.append(legacy[team]['FinalStanding'][year])
+		regWinsBig.append(regWinsSmall)
+		leaderBig.append(leaderSmall)
+		bigGamesBig.append(bigGamesSmall)
+		regPointsBig.append(regPointsSmall)
+		postWinsBig.append(postWinsSmall)
+		champsBig.append(champsSmall)
+		standingBig.append(standingSmall)
+		year += 1
+
+	for i in range(len(regWinsBig)): # turn all values into floats
+		for j in range(len(regWinsBig[0])):
+			if regWinsBig[i][j]=='-': regWinsBig[i][j] = 0
+			if leaderBig[i][j]=='-': leaderBig[i][j] = 0
+			if bigGamesBig[i][j]=='-': bigGamesBig[i][j] = 0
+			if regPointsBig[i][j]=='-': regPointsBig[i][j] = 0
+			if postWinsBig[i][j]=='-': postWinsBig[i][j] = 0
+			if champsBig[i][j]=='-': champsBig[i][j] = 0
+			if standingBig[i][j]=='-': standingBig[i][j] = 0
+			regWinsBig[i][j] = float(regWinsBig[i][j])
+			leaderBig[i][j] = float(leaderBig[i][j])
+			bigGamesBig[i][j] = float(bigGamesBig[i][j])
+			regPointsBig[i][j] = float(regPointsBig[i][j])
+			postWinsBig[i][j] = float(postWinsBig[i][j])
+			champsBig[i][j] = float(champsBig[i][j])
+			standingBig[i][j] = float(standingBig[i][j])
+	legacyStats = [teamList, regWinsBig, leaderBig, bigGamesBig, regPointsBig, postWinsBig, champsBig, standingBig]
+	return legacyStats
+
+
+
+def plotLegacy(show, save):
+	"""
+	Creates charts for all of the legacy data
+	Argument: boolean 'show', boolean 'save'
+	Return:
+	"""
+	legacyStats = makeLegacyData()
+	plots = ['Regular Season Wins','Week Top Score','Big Games',
+				'Regular Season Points','Postseason Wins','Championships','Final Standing']
+	for k in range(1,len(plots)+1):
+		fig, ax = plt.subplots()
+		year = 2013
+		ax.bar(legacyStats[0], legacyStats[k][0], label=str(year)) # plot first year
+		bottomList = legacyStats[k][0] # track bottom to plot on top of
+		if k != 6: # don't annotate championships
+			for j in range(len(legacyStats[k][0])): # annotate first year
+				if legacyStats[k][0][j] != 0:
+					ax.annotate(str(int(legacyStats[k][0][j])), xy=(j,0.25), ha='center')
+		for i in range(1,7): # plot next 6 years
+			year += 1
+			ax.bar(legacyStats[0], legacyStats[k][i], label=str(year), bottom=bottomList)
+			if k != 6: # don't annotate championships
+				for j in range(len(legacyStats[k][i])): # annotate bars
+					if legacyStats[k][i][j] != 0:
+						ax.annotate(str(int(legacyStats[k][i][j])), xy=(j,bottomList[j]+0.25), ha='center')
+			for j in range(len(bottomList)): # update bottom list
+				bottomList[j] += legacyStats[k][i][j]
+		maxHeight = 0
+		for i in range(len(legacyStats[0])):
+			if bottomList[i] > maxHeight: maxHeight = bottomList[i]
+			if k==7: text = str(legacyStats[k][7][i]) # annotate average for standings
+			else: text = str(int(bottomList[i]))
+			ax.annotate(text, xy=(i,bottomList[i]+maxHeight/30), ha='center', fontweight='bold')
+		ax.set_ylim(0,maxHeight+maxHeight/10)
+		if k==6: ax.set_yticks((1,2,3)) # set y axis for championships
+		ax.legend()
+		ax.set_title(plots[k-1], fontsize=18, fontweight='bold')
+		fig.set_size_inches(10,7.5)
+		if save:
+			plt.savefig('C:/Users/NeilS/Desktop/FantasyBoyzUSA/plots/plotLegacy/plotLegacy'+plots[k-1]+'.png')
+		if show:
+			plt.show()
+		plt.close()
+
 
 
 def stackedBarTest():

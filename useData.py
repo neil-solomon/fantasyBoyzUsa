@@ -30,7 +30,7 @@ def main():
 	with open(teamsFile, 'rb') as file:
 		fantasyTeams = pickle.load(file)
 
-	#prettyPrint(plotLegacy(fantasyTeams, False, False))
+	#prettyPrint(plotLegacy(fantasyTeams, True, False))
 	#plotWeeklyBull(fantasyTeams, 1, 13, True, True)
 	#plotTotalBull(fantasyTeams, True, True)
 	#plotStandings(fantasyTeams, 1, 13, True, True)
@@ -38,8 +38,13 @@ def main():
 	#plotTeamsProjectedWeeklyScoring(fantasyTeams, 1, 13, True, True)
 	#plotTeamsPoints(fantasyTeams, 1, 13, True, True)
 
+	#plotLegacy(True, True)
+
+
 	#plotRosterPerformance(fantasyTeams, 1, 3, True, True)	
-	plotMatchups(fantasyTeams,week,False,True)
+	#plotMatchups(fantasyTeams,week,True,True)
+
+
 
 
 	#stackedBarTest()

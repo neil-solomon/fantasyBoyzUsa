@@ -1,3 +1,5 @@
+Regular Season and Post Season
+
 champAvg = 161.15
 bigGame >= 200
 218 pts - Alton 2013, week 01
