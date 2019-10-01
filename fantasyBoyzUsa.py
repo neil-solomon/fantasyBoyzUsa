@@ -787,7 +787,7 @@ def main():
 	#getDataTest(url = 'http://fantasysports.yahooapis.com/fantasy/v2/league/390.l.139892/players')
 	#saveOldLegacy()
 
-	fantasyLeague, fantasyTeams = initializeLeague(3,3,True)
+	fantasyLeague, fantasyTeams = initializeLeague(4,4,True)
 
 
 if __name__ == '__main__':
